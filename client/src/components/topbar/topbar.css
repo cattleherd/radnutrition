@@ -1,0 +1,20 @@
+.Topbar-container{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #86654e	;
+    padding: 5px;
+    position: fixed;
+    top: 0;
+    z-index: 999;
+}
+
+.Topbar-left{
+    padding:8px;
+    padding-left: 20px;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+}
